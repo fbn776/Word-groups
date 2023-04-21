@@ -1,3 +1,4 @@
+#@fbn776
 """
 Python script to convert 'words_alpha.txt' to the given file at `modified_path` based on first character
 Each word is categorized based on its first character and is stored in a json file as a dict with key: value pair as <first-char>: <list of all words starting with given first-char>
