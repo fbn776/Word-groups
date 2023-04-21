@@ -3,4 +3,4 @@ An effort to organize english words based on its length, individual character or
 
 
 The words list are obtained from:
-(https://github.com/dwyl/english-words)[dwyl/english-words]
+[https://github.com/dwyl/english-words](dwyl/english-words)
