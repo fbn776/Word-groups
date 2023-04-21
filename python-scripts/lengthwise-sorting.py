@@ -1,6 +1,6 @@
 """
 Python script to convert 'words_alpha.txt' to the given file at `modified_path` based on length of each word.
-Each word is categorized based on its length and is stored in a dict with key: value pair as <length>: <lits of all words with this length>
+Each word is categorized based on its length and is stored as a json file as a dict with key: value pair as <length>: <list of all words with this length>
 """
 import json, time
 
